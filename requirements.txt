@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+aiofiles
+aiohttp
+pandas
+pillow
+pytesseract
+sqlite3  # (Not required in requirements.txt, as it's built into Python)
