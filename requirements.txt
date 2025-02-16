@@ -1,9 +1,8 @@
-fastapi
-uvicorn
-pydantic
-aiofiles
-aiohttp
-pandas
-pillow
-pytesseract
-sqlite3  # (Not required in requirements.txt, as it's built into Python)
+Flask==2.3.2
+requests==2.31.0
+sentence-transformers==2.2.2
+beautifulsoup4==4.12.2
+SpeechRecognition==3.10.0
+Pillow==10.0.0
+python-markdown==3.4.3
+pandas==2.0.3
